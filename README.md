@@ -1,0 +1,5 @@
+# August 29 2022 Module 3 Workbook
+
+The entire modular practices are in this repo. Solutions will be  pushed to a directory called solutions in each weeks day. 
+
+A link to this repo will can always be found in your slack channels topic. 
