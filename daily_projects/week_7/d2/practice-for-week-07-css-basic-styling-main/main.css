@@ -1,0 +1,39 @@
+h1 {
+    font: size 20px; ;
+    font-family:sans-serif ;
+    padding: 0;
+    margin:auto;
+    text-align: center;
+    font-weight:bold;
+    text-decoration:none ;
+    color:black;
+    background-color:grey;
+}
+
+h2 {
+    font-size:10 ;
+    font-family:serif ;
+    padding: 0;
+    margin: auto;
+    text-align: center
+    font-weight:;
+    color: ;
+    background-color: ;
+}
+
+p {
+    font-family: ;
+    font-size: ;
+    padding: ;
+    margin: ;
+    color: ;
+    background-color: ;
+}
+
+.logo {
+    background-size:contain;
+    background-image: url(https://appacademy.github.io/styleguide/assets/logo/logo-emblem-black-1000.png);
+    background-color: ;
+    height: ;
+    width: ;
+}
